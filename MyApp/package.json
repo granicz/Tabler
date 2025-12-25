@@ -1,0 +1,7 @@
+{
+  "name": "MyCS05",
+  "version": "1.0.0",
+  "devDependencies": {
+    "esbuild": "^0.19.9"
+  }
+}

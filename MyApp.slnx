@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="CodeGen/Tabler.fsproj" />
+  <Project Path="MyApp/MyApp.fsproj" />
+</Solution>

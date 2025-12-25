@@ -1,0 +1,18 @@
+# MyApp.Employees.Data = Person list {
+#   "First Name"  -> FirstName: string
+#   "Last Name"   -> LastName: string
+#   "Age"		  -> Age: int
+#   "Department"  -> Department: union
+#   "Start Date"  -> StartDate: date
+# }
+First Name, Last Name, Age, Department, Start Date
+Anna,Kovacs,29,Engineering,2021-04-12
+Mark,Stevens,41,Finance,2016-09-01
+Lucia,Ramirez,34,Marketing,2019-02-18
+Peter,Nagy,38,Operations,2017-06-05
+Sofia,Morales,26,Customer Support,2023-01-09
+Daniel,Weber,45,Human Resources,2014-11-24
+Emily,Chen,31,Product Management,2020-08-17
+Robert,Klein,52,Legal,2010-03-22
+Isabel,Fernandez,28,Design,2022-05-30
+Thomas,OConnor,36,Sales,2018-10-08

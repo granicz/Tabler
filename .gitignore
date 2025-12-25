@@ -1,0 +1,14 @@
+**/obj/
+!**/obj/*.websharper.props
+bin/
+.vs/
+build/
+node_modules/
+websharper.log
+/**/wwwroot/Scripts/
+*.user
+/.ionide
+/nuget-packages
+/Tabler/*.log
+/MyApp/*.log
+.vite
