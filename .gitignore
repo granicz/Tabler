@@ -12,3 +12,5 @@ websharper.log
 /Tabler/*.log
 /MyApp/*.log
 .vite
+
+.fake
