@@ -127,4 +127,4 @@ module Employees =
 
 ## Learn more
 
-For a blog article that introduced Tabler, go [here]().
+For a blog article that introduced Tabler, go [here](https://intellifactory.com/user/granicz/20251224-introducing-websharper-code-generators).
